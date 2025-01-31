@@ -40,7 +40,7 @@ Here are some of my key projects:
 ### 📊 **Working Hours & Income: Effects on Sleep**
 - Studied how work hours and income impact sleep using **econometrics and mathematical modeling**.
 - Used R programming for statistical analysis and data visualization.
-- [GitHub Repository](https://github.com/pieropls/Work-Hours-and-Income-Effects-on-Sleep)
+- [GitHub Repository](https://github.com/pieropls/Work.Hours.and.Income-Effects.on.Sleep)
 
 ### π² **Trading Platform**
 - Interactive **Python-based trading platform** optimized for stock portfolios.
