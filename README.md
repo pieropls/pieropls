@@ -57,6 +57,11 @@ Here are some of my key projects:
 - Demonstrates **algorithmic thinking and problem-solving** skills.
 - [GitHub Repository](https://github.com/pieropls/Brain-Teasers)
 
+### 📉 **Value at Risk (VaR)**
+- Implemented **three methods** for estimating **VaR** (Monte Carlo, Parametric, Historical).
+- Provided **mathematical explanations, Python implementations, and visualizations**.  
+- [GitHub Repository](https://github.com/pieropls/VaR)
+
 ## 📲 Contact Information
 
 <div align="center">
